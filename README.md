@@ -23,7 +23,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Unidad 2
 
-
+https://star-saver-473.notion.site/Unidad-2-Operaciones-con-objetos-255a0cdf497e80c88d78c41a4e60192a?source=copy_link 
 
 ## Unidad 3
 
