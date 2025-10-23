@@ -1,6 +1,6 @@
-package Semana03.Company.Main;
+package unidad1.Actividad2.Company.Main;
 
-import Semana03.Company.hr.Employee;
+import unidad1.Actividad2.Company.hr.Employee;
 
 public class main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Semana02;
+package unidad1;
 
-public class App {
+public class Actividad1 {
     public static void main(String[] args) throws Exception {
         Product product1 = new Product("Zapatos", 9.99, 10);
         Product product2 = new Product("Tenis", 25.00, 5);
