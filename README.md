@@ -29,6 +29,6 @@ https://star-saver-473.notion.site/Unidad-2-Operaciones-con-objetos-255a0cdf497e
 
 https://star-saver-473.notion.site/Unidad-3-Manejo-de-excepciones-y-E-S-255a0cdf497e8023b239da58ef0bf9a3?source=copy_link 
 
-## Superclases y Subclases
+## Unidad 4
 
-https://star-saver-473.notion.site/Superclases-y-Subclases-Relaci-n-es-un-is-a-295a0cdf497e80099682d5a3b77ccd97
+https://star-saver-473.notion.site/Unidad-4-Herencia-255a0cdf497e809b992cd19b911ca459
